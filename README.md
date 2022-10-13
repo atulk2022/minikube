@@ -31,7 +31,7 @@ minikube kubectl -- get po -A
 ```
 ## make alias for use kubectl esier
 ```
-alias kubectl="minikube kubectl --"
+alias kubectl="minikube kubectl --" >>.bashrc
 
 ```
 ## minikube status
