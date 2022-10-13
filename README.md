@@ -11,7 +11,7 @@ linux
 x86-64
 
 ## Download binary --
-### use Non-root Privileges but having a docker Privilegs
+### use Non-root Privileges but having a docker Privileges
 ```
  curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
 ```
