@@ -29,6 +29,11 @@ minikube start
 ```
 minikube kubectl -- get po -A
 ```
+## make alias for use kubectl esier
+```
+alias kubectl="minikube kubectl --"
+
+```
 ## minikube status
 ```
 minikube status
