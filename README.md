@@ -1,4 +1,4 @@
-# minikube
+# minikube Installation
 minikube setup for k8ts
 ## What you’ll need
  2 CPUs or more ,
