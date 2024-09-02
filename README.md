@@ -5,7 +5,7 @@ minikube setup for k8ts
  2GB of free memory ,
  20GB of free disk space ,
  Internet connection
-
+  
 ## Operating system 
 linux
 x86-64
